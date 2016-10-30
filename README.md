@@ -1,2 +1,3 @@
 # hello-word
-Teste primeiro repositótio
+Teste primeiro repositório
+Salvando o primeiro arquivo da minha conta no GitHub.
